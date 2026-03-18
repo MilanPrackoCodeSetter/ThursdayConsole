@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThursdayConsole", "ThursdayConsole.csproj", "{2EAAE8E5-607C-46C5-ABA6-271C2B4087A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThursdayConsole.Tests", "..\ThursdayConsole.Tests\ThursdayConsole.Tests.csproj", "{B4D49434-AA02-4D35-B598-6FFD2B3629E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThursdayConsole.Tests", "ThursdayConsole.Tests\ThursdayConsole.Tests.csproj", "{9F274334-78FB-4AD3-B1AA-56FD86CA462A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{2EAAE8E5-607C-46C5-ABA6-271C2B4087A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EAAE8E5-607C-46C5-ABA6-271C2B4087A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EAAE8E5-607C-46C5-ABA6-271C2B4087A8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4D49434-AA02-4D35-B598-6FFD2B3629E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4D49434-AA02-4D35-B598-6FFD2B3629E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4D49434-AA02-4D35-B598-6FFD2B3629E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4D49434-AA02-4D35-B598-6FFD2B3629E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F274334-78FB-4AD3-B1AA-56FD86CA462A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F274334-78FB-4AD3-B1AA-56FD86CA462A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F274334-78FB-4AD3-B1AA-56FD86CA462A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F274334-78FB-4AD3-B1AA-56FD86CA462A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
